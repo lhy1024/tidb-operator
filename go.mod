@@ -4,6 +4,9 @@ require (
 	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 // indirect
 	github.com/BurntSushi/toml v0.3.1 // indirect
 	github.com/MakeNowJust/heredoc v0.0.0-20171113091838-e9091a26100e // indirect
+	github.com/Masterminds/goutils v1.1.0 // indirect
+	github.com/Masterminds/semver v1.4.2 // indirect
+	github.com/Masterminds/sprig v2.20.0+incompatible // indirect
 	github.com/Microsoft/go-winio v0.4.12 // indirect
 	github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5 // indirect
 	github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973 // indirect
@@ -14,6 +17,7 @@ require (
 	github.com/coreos/go-semver v0.2.0 // indirect
 	github.com/coreos/go-systemd v0.0.0-20180511133405-39ca1b05acc7 // indirect
 	github.com/coreos/pkg v0.0.0-20180108230652-97fdf19511ea // indirect
+	github.com/cyphar/filepath-securejoin v0.2.2 // indirect
 	github.com/daviddengcn/go-colortext v0.0.0-20180409174941-186a3d44e920 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/dnephin/govet v0.0.0-20171012192244-4a96d43e39d3
@@ -34,6 +38,7 @@ require (
 	github.com/fsnotify/fsnotify v1.4.7 // indirect
 	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/go-sql-driver/mysql v1.4.0
+	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/groupcache v0.0.0-20180513044358-24b0969c4cb7 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
@@ -51,6 +56,7 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway v1.4.1 // indirect
 	github.com/hashicorp/golang-lru v0.0.0-20180201235237-0fb14efe8c47 // indirect
 	github.com/hpcloud/tail v1.0.0 // indirect
+	github.com/huandu/xstrings v1.2.0 // indirect
 	github.com/imdario/mergo v0.3.7 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/jonboulle/clockwork v0.1.0 // indirect
@@ -122,6 +128,7 @@ require (
 	k8s.io/client-go v2.0.0-alpha.0.0.20190115164855-701b91367003+incompatible
 	k8s.io/code-generator v0.0.0-20190808180452-d0071a119380
 	k8s.io/gengo v0.0.0-20190327210449-e17681d19d3a // indirect; indirec
+	k8s.io/helm v2.14.3+incompatible // indirect
 	k8s.io/klog v0.3.1
 	k8s.io/kubernetes v1.12.5
 	k8s.io/metrics v0.0.0-20190118124808-33c1aed8dc65 // indirect

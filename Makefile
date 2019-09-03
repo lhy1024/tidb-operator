@@ -144,6 +144,7 @@ check-gosec:
 
 cli:
 	$(GO) -ldflags '$(LDFLAGS)' -o tkctl cmd/tkctl/main.go
+	$(GO) -ldflags '$(LDFLAGS)' -o checker cmd/checker/main.go
 
 debug-docker-push: debug-build-docker
 	docker push "${DOCKER_REGISTRY}/pingcap/debug-launcher:latest"
